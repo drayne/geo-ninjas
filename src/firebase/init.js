@@ -3,7 +3,7 @@ import firestore from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "***REMOVED***",
+    apiKey: "",
     authDomain: "equi-geo-ninjas.firebaseapp.com",
     databaseURL: "https://equi-geo-ninjas.firebaseio.com",
     projectId: "equi-geo-ninjas",
